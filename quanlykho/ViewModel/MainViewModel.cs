@@ -15,6 +15,14 @@ namespace quanlykho.ViewModel
         public ICommand UnitCommand { get; set; }
 
         public ICommand SuplierCommand { get; set; }
+        public ICommand CustomerCommand { get; set; }
+
+        public ICommand ObjectCommand { get; set; }
+        public ICommand UserCommand { get; set; }
+        
+            public ICommand InputCommand { get; set; }
+        
+            public ICommand OutputCommand { get; set; }
         // moi thu xu ly se nam trong nay
         public MainViewModel()
         {
@@ -26,15 +34,45 @@ namespace quanlykho.ViewModel
             });
 
             UnitCommand = new RelayCommand<object>((p) => { return true; }, (p) =>
-            {   
+            {
                 UnitWindow unitWindow = new UnitWindow();
                 unitWindow.ShowDialog();
             });
 
             SuplierCommand = new RelayCommand<object>((p) => { return true; }, (p) =>
             {
-                SuplierWindow unitWindow = new SuplierWindow();
-                unitWindow.ShowDialog();
+                SuplierWindow suplierWindow = new SuplierWindow();
+                suplierWindow.ShowDialog();
+            });
+
+            CustomerCommand = new RelayCommand<object>((p) => { return true; }, (p) =>
+            {
+                CustomerWindow customerWindow = new CustomerWindow();
+                customerWindow.ShowDialog();
+            });
+
+            ObjectCommand = new RelayCommand<object>((p) => { return true; }, (p) =>
+            {
+                ObjectWindow objectWindow = new ObjectWindow();
+                objectWindow.ShowDialog();
+            });
+
+            UserCommand = new RelayCommand<object>((p) => { return true; }, (p) =>
+            {
+                UserWindow userWindow = new UserWindow();
+                userWindow.ShowDialog();
+            });
+
+            InputCommand = new RelayCommand<object>((p) => { return true; }, (p) =>
+            {
+                InputWindow inputWindow = new InputWindow();
+                inputWindow.ShowDialog();
+            });
+
+            OutputCommand = new RelayCommand<object>((p) => { return true; }, (p) =>
+            {
+                OutputWindow outputWindow = new OutputWindow();
+                outputWindow.ShowDialog();
             });
         }
     }

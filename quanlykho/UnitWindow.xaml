@@ -37,7 +37,7 @@
                 <!--element binding select item-->
                 <materialDesign:Card Grid.Row="0" Margin="5">
                     <Grid>
-                        <TextBox Text="{Binding DisplayName}" Margin="5" materialDesign:HintAssist.Hint="Tên đơn vị đo"  Style="{StaticResource MaterialDesignFloatingHintTextBox}" VerticalAlignment="Center" />
+                        <TextBox Text="{Binding DisplayName, UpdateSourceTrigger=PropertyChanged}" Margin="5" materialDesign:HintAssist.Hint="Tên đơn vị đo"  Style="{StaticResource MaterialDesignFloatingHintTextBox}" VerticalAlignment="Center" />
                     </Grid>
                 </materialDesign:Card>
 
