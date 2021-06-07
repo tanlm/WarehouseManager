@@ -1,5 +1,0 @@
-C:\Users\Neotiq\source\repos\quanlykho\quanlykho\obj\Debug\netcoreapp3.0\quanlykho.csproj.AssemblyReference.cache
-C:\Users\Neotiq\source\repos\quanlykho\quanlykho\obj\Debug\netcoreapp3.0\App.g.cs
-C:\Users\Neotiq\source\repos\quanlykho\quanlykho\obj\Debug\netcoreapp3.0\GeneratedInternalTypeHelper.g.cs
-C:\Users\Neotiq\source\repos\quanlykho\quanlykho\obj\Debug\netcoreapp3.0\quanlykho_MarkupCompile.cache
-C:\Users\Neotiq\source\repos\quanlykho\quanlykho\obj\Debug\netcoreapp3.0\quanlykho_MarkupCompile.lref

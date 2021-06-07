@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\Neotiq\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Neotiq\\.nuget\\packages"
-    ]
-  }
-}
