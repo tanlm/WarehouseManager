@@ -1,0 +1,94 @@
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignColors.dll
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csprojResolveAssemblyReference.cache
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\MainWindow.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\App.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho_MarkupCompile.cache
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho_MarkupCompile.lref
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\App.baml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\MainWindow.baml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.g.resources
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.Cache
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.CoreCompileInputs.cache
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\ResourceXAML\MainResource.baml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\LoginWindow.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\LoginWindow.baml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\UserControlKteam\ControlBarUC.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\UserControlKteam\ControlBarUC.baml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\System.Windows.Interactivity.dll
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\System.Windows.Interactivity.xml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\UnitWindow.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\UnitWindow.baml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\SuplierWindow.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\SuplierWindow.baml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\CustomerWindow.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\CustomerWindow.baml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\ObjectWindow.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\ObjectWindow.baml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\UserWindow.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\UserWindow.baml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\InputWindow.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\InputWindow.baml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\OutputWindow.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\OutputWindow.baml
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.AssemblyReference.cache
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\CustomerWindow.g.cs
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\InputWindow.g.cs
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\LoginWindow.g.cs
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\MainWindow.g.cs
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\ObjectWindow.g.cs
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\OutputWindow.g.cs
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\SuplierWindow.g.cs
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\UnitWindow.g.cs
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\UserControlKteam\ControlBarUC.g.cs
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\UserWindow.g.cs
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\App.g.cs
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho_Content.g.cs
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho_MarkupCompile.cache
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho_MarkupCompile.lref
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.dll
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignColors.dll
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.xml
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\App.baml
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\CustomerWindow.baml
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\InputWindow.baml
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\LoginWindow.baml
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\MainWindow.baml
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\ObjectWindow.baml
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\OutputWindow.baml
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\SuplierWindow.baml
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\UnitWindow.baml
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\UserControlKteam\ControlBarUC.baml
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\UserWindow.baml
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.g.resources
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.cache
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.CoreCompileInputs.cache
+C:\Users\Neotiq\Downloads\QuanLyKho-20210604T081753Z-001\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.CopyComplete
